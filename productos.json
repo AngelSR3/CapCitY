@@ -1,0 +1,66 @@
+[
+    {
+        "img": "/imagenes/Gorras/Transparentes/Gorra Blanca plana.png",
+        "alt": "Gorra Blanca plana",
+        "nombre": "Gorra Basic Collection Cerrada",
+        "precio": "209.999 COP",
+        "enlace": "carrito.html",
+        "tipo": "59fifty"
+    },
+    {
+        "img": "/imagenes/Gorras/Transparentes/Gorra Amarilla forty.png",
+        "alt": "Gorra Amarilla forty",
+        "nombre": "Gorra Basic Collection Ajustable",
+        "precio": "149.999 COP",
+        "enlace": "carrito.html",
+        "tipo": "9forty"
+    },
+    {
+        "img": "/imagenes/Gorras/Transparentes/Gorra Roja thirty.png",
+        "alt": "Gorra Roja Cerrada",
+        "nombre": "Gorra MVP Roja Cerrada",
+        "precio": "179.999 COP",
+        "enlace": "carrito.html",
+        "tipo": "39thirty"
+    },
+    {
+        "img": "/imagenes/Gorras/Transparentes/Gorra Verde plana.png",
+        "alt": "Gorra Verde Cerrada",
+        "nombre": "Gorra NBA Verde PDT Collection",
+        "precio": "209.999 COP",
+        "enlace": "carrito.html",
+        "tipo": "59fifty"
+    },
+    {
+        "img": "/imagenes/Gorras/Transparentes/Gorra Rosa plana.png",
+        "alt": "Gorra Rosa Cerrada",
+        "nombre": "Gorra Color Pack Collection Cerrada",
+        "precio": "209.999 COP",
+        "enlace": "carrito.html",
+        "tipo": "59fifty"
+    },
+    {
+        "img": "/imagenes/Gorras/Transparentes/Gorra Azul thirty.png",
+        "alt": "Gorra Azul Ajustable",
+        "nombre": "Gorra Basic Collection Ajustable",
+        "precio": "209.999 COP",
+        "enlace": "carrito.html",
+        "tipo": "39thirty"
+    },
+    {
+        "img": "/imagenes/Gorras/Transparentes/Gorra Celeste forty.png",
+        "alt": "Gorra Celeste Ajustable",
+        "nombre": "Gorra Los Angeles Ajustable",
+        "precio": "209.999 COP",
+        "enlace": "carrito.html",
+        "tipo": "9forty"
+    },
+    {
+        "img": "/imagenes/Gorras/Transparentes/Gorra Morada twenty.png",
+        "alt": "Gorra Morada Ajustable",
+        "nombre": "Gorra Los Angeles Ajustable",
+        "precio": "209.999 COP",
+        "enlace": "carrito.html",
+        "tipo": "9twenty"
+    }
+]
