@@ -17,15 +17,25 @@ CapCity es una tienda en línea para explorar, filtrar y comprar gorras. Está d
 ## Estructura del Proyecto
 
 CapCity/
+
 ├── index.html
+
 ├── Gorras.html
+
 ├── carrito.html
+
 ├── estilos.css
+
 ├── index.js
+
 ├── gorras.js
+
 ├── carrito.js
+
 ├── productos.json
+
 ├── fuentes/
+
 └── imagenes/
 
 # Contacto
