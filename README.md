@@ -39,8 +39,12 @@ CapCity/
 └── imagenes/
 
 # Contacto
+
 Email: angelduvan1016@gmail.com
+
 linkedn: https://www.linkedin.com/in/angelsr3/
+
 github: https://github.com/AngelSR3
+
 
 Version (1.0) estable
